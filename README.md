@@ -1,5 +1,5 @@
 
-# oi, seu Fernando 👋🏼
+# oi, sou Fernando 👋🏼
 
   
 

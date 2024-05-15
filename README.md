@@ -3,11 +3,11 @@
 
   
 
-Atualmente, sou estudante de Sistemas de Informação ainda sem o primeiro emprego. Durante minha graduação, tenho focado em qualidade de software e desenvolvimento web.
+Atualmente, sou estudante de Sistemas de Informação. Durante minha graduação, tenho focado em desenvolvimento e qualidade de software.
 
-Dediquei-me a aplicar teoria na prática, participando ativamente de projetos acadêmicos. Minha ênfase na qualidade de software inclui testes e familiaridade com as melhores práticas.
+No desenvolvimento web, explorei diversas linguagens e frameworks para criar soluções eficientes. Estou animado para aplicar essas habilidades no ambiente profissional, contribuindo com abordagem proativa para o sucesso da equipe. Dos frameworks que utilizo, o que tenho mais tenho familiaridade é o springboot.
 
-No desenvolvimento web, explorei diversas linguagens e frameworks para criar soluções eficientes. Estou animado para aplicar essas habilidades no ambiente profissional, contribuindo com abordagem proativa para o sucesso da equipe.
+Dediquei-me a aplicar a teoria na prática, participando ativamente de projetos acadêmicos. Minha ênfase na qualidade de software inclui testes e familiaridade com as melhores práticas.
 
 ## A seguir deixei algumas das ferramentas ou linguagens que já utilizei ou utilizo:
 

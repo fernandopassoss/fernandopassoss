@@ -4,11 +4,7 @@
   
 
 Atualmente, sou estudante de Sistemas de Informação, com foco em desenvolvimento web. Durante minha graduação, tenho me dedicado a aprimorar minhas habilidades nessa área, buscando me tornar um desenvolvedor fullstack.
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techcomkathia&theme=dracula&custom_title=Minhas%20Contribuições%20Recentes)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techcomkathia&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandopassoss&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## A seguir deixei algumas das ferramentas ou linguagens que já utilizei ou utilizo:

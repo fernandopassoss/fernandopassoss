@@ -4,7 +4,7 @@
   
 
 Atualmente, sou estudante de Sistemas de Informação, com foco em desenvolvimento web. Durante minha graduação, tenho me dedicado a aprimorar minhas habilidades nessa área, buscando me tornar um desenvolvedor fullstack.
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandopassoss&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandopassoss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## A seguir deixei algumas das ferramentas ou linguagens que já utilizei ou utilizo:

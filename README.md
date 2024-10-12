@@ -1,13 +1,10 @@
 
-# oi, sou Fernando 👋🏼
+# print("Olá Mundo"), sou Fernando 👋🏼
 
   
 
-Atualmente, sou estudante de Sistemas de Informação. Durante minha graduação, tenho focado em desenvolvimento e qualidade de software.
+Atualmente, sou estudante de Sistemas de Informação, com foco em desenvolvimento web. Durante minha graduação, tenho me dedicado a aprimorar minhas habilidades nessa área, buscando me tornar um desenvolvedor fullstack.
 
-No desenvolvimento web, explorei diversas linguagens e frameworks para criar soluções eficientes. Estou animado para aplicar essas habilidades no ambiente profissional, contribuindo com abordagem proativa para o sucesso da equipe. Dos frameworks que utilizo, o que tenho mais tenho familiaridade é o springboot.
-
-Dediquei-me a aplicar a teoria na prática, participando ativamente de projetos acadêmicos. Minha ênfase na qualidade de software inclui testes e familiaridade com as melhores práticas.
 
 ## A seguir deixei algumas das ferramentas ou linguagens que já utilizei ou utilizo:
 

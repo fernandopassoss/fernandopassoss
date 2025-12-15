@@ -25,8 +25,3 @@ Atualmente, sou estudante de Sistemas de Informação, com foco em desenvolvimen
 
 ----
 
-<div align="center">
-<br><p align="centre"><b>Você é o visitante número: </b></p>  
-  <img src="https://profile-counter.glitch.me/fernandopassoss/count.svg" />
-<br>
-</div>
